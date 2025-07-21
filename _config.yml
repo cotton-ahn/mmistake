@@ -16,11 +16,12 @@
 title: Hello, My name is Hyemin Ahn
 email: cotton.ahn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a personal website of Dr. Hyemin Ahn. I am currently working as an Assistant Professor who leads AI & Human-Robot Interaction (Ahri) Lab in South Korea.
+  This is a personal website of Dr. Hyemin Ahn. I am currently working as an Assistant Professor who leads AI & Human-Robot Interaction Lab (AhriLab) in South Korea.
 twitter_username: heyman_ahn
 github_username: cotton-ahn
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dirt
 search: true
+url: https://ahnhyem.in
 
 # Build settings
 markdown: kramdown
@@ -62,28 +63,22 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://ahnhyem.in"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/heyman_ahn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/cotton-ahn"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/heyman_ahn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/cotton-ahn"
 
 defaults:
   # _posts
