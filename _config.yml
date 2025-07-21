@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a personal website of Dr. Hyemin Ahn. I am currently working as an Assistant Professor who leads AI & Human-Robot Interaction Lab (AhriLab) in South Korea.
 twitter_username: heyman_ahn
 github_username: cotton-ahn
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "dark"
 search: true
 url: https://ahnhyem.in
 logo: "/assets/images/logo.jpg"
