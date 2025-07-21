@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hello, My name is Hyemin Ahn
+title: Hello, my name is Hyemin Ahn
 email: cotton.ahn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a personal website of Dr. Hyemin Ahn. I am currently working as an Assistant Professor who leads AI & Human-Robot Interaction Lab (AhriLab) in South Korea.
 twitter_username: heyman_ahn
 github_username: cotton-ahn
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: contrast
 search: true
 url: https://ahnhyem.in
 logo: "/assets/images/logo.jpg"
@@ -58,9 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Hyemin Ahn"
+  name   : "Dr. Hyemin Ahn"
   avatar : "/assets/images/me.jpeg"
-  bio    : "I am Assistant Professor in Robotics, who leads AI & Human-Robot Interaction Lab (AhriLab) in South Korea."
+  bio    : "I am Assistant Professor in Robotics, who leads **AI & Human-Robot Interaction Lab (Ahri Lab)**."
+  location : "South Korea"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -68,15 +69,19 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/heyman_ahn"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=AmvAKdcAAAAJ"
 
 footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/cotton-ahn"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/heyman_ahn"
+  since: "1991"
+  # links:
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/cotton-ahn"
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/heyman_ahn"
 
 defaults:
   # _posts
@@ -108,3 +113,4 @@ tag_archive:
 
 # custom settings
 enable_copy_code_button: true
+google_site_verification: ""
