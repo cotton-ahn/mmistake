@@ -87,9 +87,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -104,3 +105,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# custom settings
+enable_copy_code_button: true
