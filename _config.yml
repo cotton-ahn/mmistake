@@ -22,6 +22,7 @@ github_username: cotton-ahn
 minimal_mistakes_skin: dirt
 search: true
 url: https://ahnhyem.in
+logo: "/assets/images/logo.jpg"
 
 # Build settings
 markdown: kramdown
@@ -58,27 +59,24 @@ plugins:
 
 author:
   name   : "Hyemin Ahn"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/me.jpeg"
+  bio    : "I am Assistant Professor in Robotics, who leads AI & Human-Robot Interaction Lab (AhriLab) in South Korea."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ahnhyem.in"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/heyman_ahn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cotton-ahn"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/heyman_ahn"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/heyman_ahn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cotton-ahn"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/heyman_ahn"
 
 defaults:
   # _posts
